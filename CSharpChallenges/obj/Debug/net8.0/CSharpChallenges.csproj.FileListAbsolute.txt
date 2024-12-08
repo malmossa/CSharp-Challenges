@@ -1,0 +1,15 @@
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\bin\Debug\net8.0\CSharpChallenges.exe
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\bin\Debug\net8.0\CSharpChallenges.deps.json
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\bin\Debug\net8.0\CSharpChallenges.runtimeconfig.json
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\bin\Debug\net8.0\CSharpChallenges.dll
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\bin\Debug\net8.0\CSharpChallenges.pdb
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\obj\Debug\net8.0\CSharpChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\obj\Debug\net8.0\CSharpChallenges.AssemblyInfoInputs.cache
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\obj\Debug\net8.0\CSharpChallenges.AssemblyInfo.cs
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\obj\Debug\net8.0\CSharpChallenges.csproj.CoreCompileInputs.cache
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\obj\Debug\net8.0\CSharpChallenges.sourcelink.json
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\obj\Debug\net8.0\CSharpChallenges.dll
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\obj\Debug\net8.0\refint\CSharpChallenges.dll
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\obj\Debug\net8.0\CSharpChallenges.pdb
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\obj\Debug\net8.0\CSharpChallenges.genruntimeconfig.cache
+C:\Users\malmo\CSharp-Challenges\CSharpChallenges\obj\Debug\net8.0\ref\CSharpChallenges.dll

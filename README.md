@@ -1,2 +1,0 @@
-# CSharp-Challenges
-C# Challenges
